@@ -1,0 +1,66 @@
+site_name: Document Center
+theme:
+   name: material   
+   palette:
+           - scheme: default
+             toggle:
+                     icon: material/toggle-switch-off-outline
+                     name: Switch to dark mode
+             primary: white
+           - scheme: black
+             toggle:
+                     icon: material/toggle-switch
+                     name: Switch to light mode
+             primary: black 
+   logo:
+         https://www.rvboards.org/assets/img/logo_header.png 
+   favicon: 
+        ./RV.png
+   features:
+        - header.autohide
+        - navigation.tabs
+        - navigation.top
+        - toc.integrate
+copyright: Copyright © PerfXLab 澎峰科技 All Rights Reserved
+extra:
+          homepage: https://www.rvboards.org
+          alternate:
+                  #Switch to English
+                  - name: English
+                    link: https://www.rvboards.org/mkdocs/en/
+                    lang: en
+                  - name: 简体中文
+                    link: https://www.rvboards.org/mkdocs/zh/
+                    lang: zh
+extra_css:
+        - stylesheets/extra.css
+nav:
+    - D1-Board:
+            - D1-Boards Introduction: nezha-d1.md
+            - D1-Development board--nezha: D1.md
+            - System image making and burning instruction:
+                    - Tina Linux Systen Introduction: Tina_linux系统.md 
+                    - Source code download: 源码下载.md
+                    - Compile environment configuration: 编译环境配置.md
+                    - Compile and burn: 编译和烧写.md
+                    - Brief introduction of development board hardware: 开发板硬件简介.md
+            - Demo experiment and demonstration:
+                    - Temperature and humidity sensor DHT11: 温湿度传感器DHT11.md
+                    - Real time clock module DS1302: 实时时钟模块DS1302.md
+                    - Tilt module: 倾斜模块.md
+                    - Tracking and obstacle avoidance module TCRT5000: 循迹避障模块TCRT5000.md
+                    - Light intensity sensor: 光照强度传感器.md
+                    - Color sensor TCS3200: 颜色传感器TCS3200.md
+                    - Atmospheric pressure sensor BMP280: 大气压强传感器BMP280.md
+                    - Three color LED lamp module: 三色led灯模块.md
+                    - 4*4 matrix keyboard: 矩阵键盘.md
+                    - Spi-Lcd 3.5 Screen(ic：ili9486l): Spi-Lcd3.5屏幕ic：ili9486l.md
+            - Resource acquisition:
+                    - Resource summary: 资源汇总.md
+                    - R&D production tools: 研发生产工具.md
+                    - Firmware Download: 固件下载.md
+            - Normal question:
+                    - FAQ: FAQ.md
+                      #- Perf-v:
+                      #    - Samples:
+                      #- Perf-v: perf-v.md
