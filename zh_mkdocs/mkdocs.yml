@@ -18,7 +18,6 @@ theme:
         ./RV.png
    features:
         - header.autohide
-        - navigation.tabs
         - navigation.top
         - toc.integrate
 copyright: Copyright © PerfXLab 澎峰科技 All Rights Reserved
