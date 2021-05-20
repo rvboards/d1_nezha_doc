@@ -19,7 +19,7 @@ theme:
    features:
         - header.autohide
         - navigation.top
-        - toc.integrate
+
 copyright: Copyright © PerfXLab 澎峰科技 All Rights Reserved
 extra:
           homepage: https://www.rvboards.org
