@@ -56,7 +56,7 @@ nav:
                     - 4*4 matrix keyboard: 矩阵键盘.md
                     - Spi-Lcd 3.5 Screen(ic：ili9486l): Spi-Lcd3.5屏幕ic：ili9486l.md
             - Resource acquisition:
-                    - Resource summary: 资源汇总.md
+                    - Resource summary: RS.md
                     - R&D production tools: 研发生产工具.md
                     - Firmware Download: 固件下载.md
             - Normal question:
