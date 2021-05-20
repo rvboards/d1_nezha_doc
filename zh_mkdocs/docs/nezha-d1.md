@@ -91,4 +91,4 @@ Chip process
 
 22nm
 ```
-微信官宣发布链接：https://mp.weixin.qq.com/s/Sv8ownFF2d-sKjBDMXp-bQ
+
