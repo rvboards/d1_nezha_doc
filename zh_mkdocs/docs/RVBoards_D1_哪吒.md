@@ -34,13 +34,13 @@
 
 双击桌面第五个图标LXTerminal；
 
-<img src="G:\micro_programing\D1\img\ppt-img\系统信息演示.png" alt="系统信息演示" style="zoom:50%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF%E6%BC%94%E7%A4%BA.png" />
 
 6、wifi配置
 
 双击桌面第二个图标connman setting；
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\wifi.png" alt="wifi" style="zoom:50%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/wifi.png" />
 
 ## 传感器Demo
 
@@ -58,17 +58,17 @@ sudo ./sw520dgpio44.sh
 
 连接实物图如下图所示，具体请查看原理图；
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\倾斜模块.jpg" alt="倾斜模块" style="zoom: 33%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97.jpg" />
 
 
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\倾斜模块_模块连接图.jpg" alt="倾斜模块_模块连接图" style="zoom: 33%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E6%A8%A1%E5%9D%97%E8%BF%9E%E6%8E%A5%E5%9B%BE.jpg" />
 
 
 
-![倾斜模块_连接图](G:\micro_programing\D1\img\RVBoards_img\倾斜模块_连接图.png)
+![倾斜模块_连接图](https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E8%BF%9E%E6%8E%A5%E5%9B%BE.png)
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\sw520dgpio.png" alt="sw520dgpio" style="zoom: 50%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E8%BF%9E%E6%8E%A5%E5%9B%BE.png" />
 
 ### 循迹避障模块TCRT5000
 
