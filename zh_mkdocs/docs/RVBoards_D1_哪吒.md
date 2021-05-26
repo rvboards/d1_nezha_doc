@@ -195,7 +195,7 @@ sudo gzip -dc RVBoards_D1_Debian_consose_img_linux_v0.3.gz | sudo dd of=/dev/sdc
 
 ## 技术支持
 
-QQ群：
+QQ群：906962594
 
 <img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/QQ.png" />
 
