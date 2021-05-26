@@ -68,7 +68,7 @@ sudo ./sw520dgpio44.sh
 
 ![倾斜模块_连接图](https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E8%BF%9E%E6%8E%A5%E5%9B%BE.png)
 
-<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E8%BF%9E%E6%8E%A5%E5%9B%BE.png" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/sw520dgpio.png" />
 
 ### 循迹避障模块TCRT5000
 
@@ -82,15 +82,15 @@ sudo ./tcrt5000gpio44.sh
 
 需要使用杜邦线连接模块，具体请查看原理图；
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\循迹模块_模块连接图.jpg" alt="循迹模块_模块连接图" style="zoom: 33%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97_%E6%A8%A1%E5%9D%97%E8%BF%9E%E6%8E%A5%E5%9B%BE.jpg" />
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\循迹模块_1.jpg" alt="循迹模块_1" style="zoom: 33%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97_1.jpg" />
 
-![循迹模块](G:\micro_programing\D1\img\RVBoards_img\循迹模块.png)
+![循迹模块](https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97.png)
 
 
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\trct_5000.png" alt="trct_5000" style="zoom: 50%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/trct_5000.png" />
 
 ### 光照强度传感器BH1750FVI----i2c
 
@@ -105,9 +105,9 @@ make
 
 光照强度传感器模块连接图如下，具体请查看原理图。
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\光照传感器.jpg" alt="光照传感器" style="zoom: 33%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8.jpg" />
 
-![光照传感器模块_io](G:\micro_programing\D1\img\RVBoards_img\光照传感器模块_io.png)
+![光照传感器模块_io](https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97_io.png)
 
 <img src="G:\micro_programing\D1\img\ppt-img\BMP280气压传感器演示.jpg" alt="BMP280气压传感器演示" style="zoom: 33%;" />
 
