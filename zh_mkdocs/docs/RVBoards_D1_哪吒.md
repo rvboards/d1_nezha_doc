@@ -109,7 +109,7 @@ make
 
 ![光照传感器模块_io](https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97_io.png)
 
-<img src="G:\micro_programing\D1\img\ppt-img\BMP280气压传感器演示.jpg" alt="BMP280气压传感器演示" style="zoom: 33%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8%E6%BC%94%E7%A4%BA.jpg" />
 
 ### 大气压强传感器BMP280
 
@@ -122,11 +122,11 @@ make
 
 大气压强传感器BMP280模块连接图如下，具体请查看原理图；
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\BMP280模块.png" alt="BMP280模块" style="zoom: 50%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/BMP280%E6%A8%A1%E5%9D%97.png" />
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\大气压强BMP280模块.png" alt="大气压强BMP280模块" style="zoom:50%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E5%A4%A7%E6%B0%94%E5%8E%8B%E5%BC%BABMP280%E6%A8%A1%E5%9D%97.png" />
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\BMP280气压传感器演示.jpg" alt="BMP280气压传感器演示" style="zoom: 33%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/BMP280%E6%B0%94%E5%8E%8B%E4%BC%A0%E6%84%9F%E5%99%A8%E6%BC%94%E7%A4%BA.jpg" />
 
 ## 镜像烧录
 
@@ -169,7 +169,7 @@ Windows10
 
 ### 烧录镜像
 
-<img src="G:\micro_programing\D1\img\RVBoards_img\烧录_win.png" alt="烧录_win" style="zoom: 67%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/%E7%83%A7%E5%BD%95_win.png" />
 
 ### 方式二：Linux
 
@@ -197,7 +197,7 @@ sudo gzip -dc RVBoards_D1_Debian_consose_img_linux_v0.3.gz | sudo dd of=/dev/sdc
 
 QQ群：
 
-<img src="C:\Users\perfxlab_000\AppData\Roaming\Typora\typora-user-images\image-20210521144707473.png" alt="image-20210521144707473" style="zoom:25%;" />
+<img src="https://github.com/rvboards/d1_nezha_doc/blob/master/zh_mkdocs/docs/img/QQ.png" />
 
 RVBoards论坛：[Perf-ABC（RISC-V SoC Board) | RVBoards 论坛](https://www.rvboards.org/forum/cn/category/7/perf-abc-risc-v-soc-board)
 
