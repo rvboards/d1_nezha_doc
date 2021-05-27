@@ -28,7 +28,7 @@
 
 密码：rvboards
 
-<img src="../img/login.jpg" />
+<img src="./img/login.jpg" />
 
 6、终端
 
