@@ -10,7 +10,7 @@
 
 ## 上手说明
 
-<img src="../img/RVBoards-D1-%E5%93%AA%E5%90%92%E7%A4%BA%E6%84%8F%E5%9B%BE.png" />
+<img src="./img/RVBoards-D1-%E5%93%AA%E5%90%92%E7%A4%BA%E6%84%8F%E5%9B%BE.png" />
 
 
 
