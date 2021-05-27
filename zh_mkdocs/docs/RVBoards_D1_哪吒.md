@@ -40,7 +40,7 @@
 
 双击桌面第二个图标connman setting；
 
-<img src="../img/wifi.png" />
+<img src="./img/wifi.png" />
 
 ## 传感器Demo
 
