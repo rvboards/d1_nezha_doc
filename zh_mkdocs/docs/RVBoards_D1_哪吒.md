@@ -68,7 +68,7 @@ sudo ./sw520dgpio44.sh
 
 ![倾斜模块_连接图](./img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E8%BF%9E%E6%8E%A5%E5%9B%BE.png)
 
-<img src="../img/sw520dgpio.png" />
+<img src="./img/sw520dgpio.png" />
 
 ### 循迹避障模块TCRT5000
 
