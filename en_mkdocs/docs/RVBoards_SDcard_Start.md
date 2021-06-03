@@ -29,11 +29,11 @@ Click PhoenixCard.exe to install the burning software;
 
 ### Burn Img file
 
-![burning](G:\micro_programing\D1\img\burning.png)
+![burning](./img/burning.png)
 
 It takes about 15 minutes;
 
-<img src="G:\micro_programing\D1\img\burning_ok.png" alt="burning_ok" style="zoom:80%;" />
+<img src="./img/burning_ok.png" alt="burning_ok" style="zoom:80%;" />
 
 ## Part 2：Linux
 
@@ -74,7 +74,7 @@ log in after the login interface pops up
 
 ## Download :
 
-https://www.rvboards.org/forum/en/topic/4/rvboards-allwinner-d1-debian-os-images/2
+https://www.rvboards.org/forum/en/topic/4/rvboards-allwinner-d1-debian-os-images/
 
 ## Technical support
 
