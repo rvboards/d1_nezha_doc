@@ -29,11 +29,11 @@ Click PhoenixCard.exe to install the burning software;
 
 ### Burn Img file
 
-![burning](./img/burning.png)
+![burning](./burning.png)
 
 It takes about 15 minutes;
 
-<img src="./img/burning_ok.png" alt="burning_ok" style="zoom:80%;" />
+<img src="./burning_ok.png" alt="burning_ok" style="zoom:80%;" />
 
 ## Part 2：Linux
 
