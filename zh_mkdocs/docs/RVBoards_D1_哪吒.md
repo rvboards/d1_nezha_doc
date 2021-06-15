@@ -10,7 +10,7 @@
 
 ## 上手说明
 
-<img src="./img/RVBoards-D1-%E5%93%AA%E5%90%92%E7%A4%BA%E6%84%8F%E5%9B%BE.png" />
+<img src="../img/RVBoards-D1-%E5%93%AA%E5%90%92%E7%A4%BA%E6%84%8F%E5%9B%BE.png" />
 
 
 
@@ -28,19 +28,19 @@
 
 密码：rvboards
 
-<img src="./img/login.jpg" />
+<img src="../img/login.jpg" />
 
 6、终端
 
 双击桌面第五个图标LXTerminal；
 
-<img src="./img/%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF%E6%BC%94%E7%A4%BA.png" />
+<img src="../img/%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF%E6%BC%94%E7%A4%BA.png" />
 
 6、wifi配置
 
 双击桌面第二个图标connman setting；
 
-<img src="./img/wifi.png" />
+<img src="../img/wifi.png" />
 
 ## 传感器Demo
 
@@ -58,17 +58,17 @@ sudo ./sw520dgpio44.sh
 
 连接实物图如下图所示，具体请查看原理图；
 
-<img src="./img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97.jpg" />
+<img src="../img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97.jpg" />
 
 
 
-<img src="./img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E6%A8%A1%E5%9D%97%E8%BF%9E%E6%8E%A5%E5%9B%BE.jpg" />
+<img src="../img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E6%A8%A1%E5%9D%97%E8%BF%9E%E6%8E%A5%E5%9B%BE.jpg" />
 
 
 
-![倾斜模块_连接图](./img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E8%BF%9E%E6%8E%A5%E5%9B%BE.png)
+![倾斜模块_连接图](../img/%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97_%E8%BF%9E%E6%8E%A5%E5%9B%BE.png)
 
-<img src="./img/sw520dgpio.png" />
+<img src="../img/sw520dgpio.png" />
 
 ### 循迹避障模块TCRT5000
 
@@ -82,11 +82,11 @@ sudo ./tcrt5000gpio44.sh
 
 需要使用杜邦线连接模块，具体请查看原理图；
 
-<img src="./img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97_%E6%A8%A1%E5%9D%97%E8%BF%9E%E6%8E%A5%E5%9B%BE.jpg" />
+<img src="../img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97_%E6%A8%A1%E5%9D%97%E8%BF%9E%E6%8E%A5%E5%9B%BE.jpg" />
 
-<img src="./img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97_1.jpg" />
+<img src="../img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97_1.jpg" />
 
-![循迹模块](./img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97.png)
+![循迹模块](../img/%E5%BE%AA%E8%BF%B9%E6%A8%A1%E5%9D%97.png)
 
 
 
@@ -105,11 +105,11 @@ make
 
 光照强度传感器模块连接图如下，具体请查看原理图。
 
-<img src="./img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8.jpg" />
+<img src="../img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8.jpg" />
 
 ![光照传感器模块_io](./img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97_io.png)
 
-<img src="./img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8%E6%BC%94%E7%A4%BA.jpg" />
+<img src="../img/%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8%E6%BC%94%E7%A4%BA.jpg" />
 
 ### 大气压强传感器BMP280
 
@@ -122,11 +122,11 @@ make
 
 大气压强传感器BMP280模块连接图如下，具体请查看原理图；
 
-<img src="./img/BMP280%E6%A8%A1%E5%9D%97.png" />
+<img src="../img/BMP280%E6%A8%A1%E5%9D%97.png" />
 
-<img src="./img/%E5%A4%A7%E6%B0%94%E5%8E%8B%E5%BC%BABMP280%E6%A8%A1%E5%9D%97.png" />
+<img src="../img/%E5%A4%A7%E6%B0%94%E5%8E%8B%E5%BC%BABMP280%E6%A8%A1%E5%9D%97.png" />
 
-<img src="./img/BMP280%E6%B0%94%E5%8E%8B%E4%BC%A0%E6%84%9F%E5%99%A8%E6%BC%94%E7%A4%BA.jpg" />
+<img src="../img/BMP280%E6%B0%94%E5%8E%8B%E4%BC%A0%E6%84%9F%E5%99%A8%E6%BC%94%E7%A4%BA.jpg" />
 
 ## 镜像烧录
 
@@ -169,7 +169,7 @@ Windows10
 
 ### 烧录镜像
 
-<img src="./img/%E7%83%A7%E5%BD%95_win.png" />
+<img src="../img/%E7%83%A7%E5%BD%95_win.png" />
 
 ### 方式二：Linux
 
@@ -197,7 +197,7 @@ sudo gzip -dc RVBoards_D1_Debian_consose_img_linux_v0.3.gz | sudo dd of=/dev/sdc
 
 QQ群：906962594
 
-<img src="./img/QQ.png" />
+<img src="../img/QQ.png" />
 
 RVBoards论坛：[Perf-ABC（RISC-V SoC Board) | RVBoards 论坛](https://www.rvboards.org/forum/cn/category/7/perf-abc-risc-v-soc-board)
 
