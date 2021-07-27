@@ -67,4 +67,5 @@
 增加执行权限：chmod +x rvboards_led.sh
 执行脚本程序：./ rvboards_led.sh，可以观察到led 颜色闪烁变化，如下图
 </span>
+
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1627350398/3.png)
