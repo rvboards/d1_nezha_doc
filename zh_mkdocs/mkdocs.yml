@@ -63,3 +63,14 @@ nav:
                       #    - Perf-v:
                       # - 样例:
                       # - Perf-v: perf-v.md
+    - Perf-V板卡:
+            - Perf-V介绍: Perf-V介绍.md
+            - Perf-V原理: Perf-V原理.md
+            - Perf-V的Demo演示:
+                    - 蜂鸟软核环境配置: 蜂鸟软核环境配置.md 
+                    - Demo制作过程: Demo制作过程.md
+            - Perf-V IDE介绍及使用: Perf-V IDE介绍及使用.md        
+            - 资源获取: 资源获取.md 
+            - 常见问题汇总: 常见问题.md
+    
+    
