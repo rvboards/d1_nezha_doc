@@ -67,9 +67,15 @@ nav:
             - Perf-V介绍: Perf-V介绍.md
             - Perf-V原理: Perf-V原理.md
             - Perf-V的Demo演示:
-                    - 蜂鸟软核环境配置: 蜂鸟软核环境配置.md 
+                    - 蜂鸟软核环境配置:
+                            - 蜂鸟简介: 蜂鸟简介.md
+                            - RISC-V开发环境教程:
+                                    - 需要安装的软件: 需要安装的软件.md
+                                    - 使用教程:
+                                            - 蜂鸟软核下载到Perf-V: 蜂鸟软核下载到Perf-V.md
+                                            - 程序下载到蜂鸟软核: 程序下载到蜂鸟软核.md
                     - Demo制作过程: Demo制作过程.md
-            - Perf-V IDE介绍及使用: Perf-V IDE介绍及使用.md        
+            - Perf-V IDE介绍及使用: IDE介绍及使用.md        
             - 资源获取: 资源获取.md 
             - 常见问题汇总: 常见问题.md
     
