@@ -3,12 +3,12 @@
 <div style="width:100%;text-align:center;">
 
 <span style="font-size:16px;">RGB-led灯模块安装示意图</span>
+</div>
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1627350143/1.png)
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1627350198/2.png)
 
-</div>
 
 <span style="font-size:16px;">
 本例中采用系统自带的gpio驱动控制扩展IO（i2c芯片PCF8574A）
@@ -67,7 +67,4 @@
 增加执行权限：chmod +x rvboards_led.sh
 执行脚本程序：./ rvboards_led.sh，可以观察到led 颜色闪烁变化，如下图
 </span>
-
-<div style="width:100%;text-align:center;">
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1627350398/3.png)
-</div>
