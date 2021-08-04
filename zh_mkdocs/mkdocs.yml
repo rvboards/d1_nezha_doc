@@ -76,6 +76,14 @@ nav:
                             - FPGA_DEMO:
                                     - 流水灯: 流水灯.md
                                     - DDR3: DDR3.md
+                                    - 摄像头 HDMI 显示(高速--HDMI&摄像头): HDMI&摄像头.md
+                                    - 摄像头 HDMI 显示(高速--HDMI): 高速HDMI.md
+                                    - 摄像头 VGA 显示(高速--VGA): 高速VGA.md
+                                    - 简易电压表设计: 简易电压表设计.md
+                                    - 千兆以太网: 千兆以太网.md
+                                    - USB 传输: USB传输.md
+                                    - 串口通信: 串口通信.md
+                                    - 基于 Perf-V 波形发生器: 波形发生器.md
                                     - 贪吃蛇小游戏: 贪吃蛇小游戏.md
                                     - 温湿度传感器的应用: 温湿度传感器的应用.md
                                     - XADC: XADC.md
@@ -85,6 +93,8 @@ nav:
                                     - LED点阵实验: 基于蜂鸟LED点阵实验.md
                                     - 智能小车: 基于蜂鸟的智能小车.md
                                     - TFT屏幕显示实验: 基于蜂鸟TFT屏幕显示实验.md
+                                    - 基于 RISCV 简易示波器实验: 简易示波器实验.md
+                                    - 基于 RISCV 四轴飞行器实验: 四轴飞行器实验.md
             - Perf-V IDE介绍及使用: IDE介绍及使用.md        
             - 资源获取: 资源获取.md 
             - 常见问题汇总: 常见问题.md
