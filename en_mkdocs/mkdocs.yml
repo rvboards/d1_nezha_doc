@@ -35,7 +35,7 @@ extra_css:
         - stylesheets/extra.css
 nav:
     - D1-Board:
-            - D1-Boards Introduction: nezha-d1.md
+            - D1-Boards Introduction: nezha-d1.md 
             - D1-Development board--nezha: D1.md
             - System image making and burning instruction:
                     - Tina Linux Systen Introduction: Tina_linux系统.md 
