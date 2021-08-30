@@ -53,7 +53,7 @@ nav:
                     - Atmospheric pressure sensor BMP280: 大气压强传感器BMP280.md
                     - Three color LED lamp module: 三色led灯模块.md
                     - 4*4 matrix keyboard: 矩阵键盘.md
-                    - Spi-Lcd 3.5 Screen(ic：ili9486l): Spi-Lcd3.5屏幕ic：ili9486l.md
+                    - Spi-Lcd 3.5 Screen(ic：ili9486l): Spi-Lcd35屏幕ili9486l.md
             - Resource acquisition:
                     - Resource summary: RS.md
                     - R&D production tools: 研发生产工具.md
