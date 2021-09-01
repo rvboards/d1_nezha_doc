@@ -39,6 +39,7 @@ nav:
             - D1-Development board--nezha: D1.md
             - System image making and burning instruction:
                     - Tina Linux Systen Introduction: Tina_linux系统.md 
+                    - Debian system burning and mirroring software source configuration: Debian.md
                     - Source code download: 源码下载.md
                     - Compile environment configuration: 编译环境配置.md
                     - Compile and burn: 编译和烧写.md
