@@ -1,4 +1,4 @@
-#### 版本更新介绍
+### 版本更新介绍
 
 <span style="font-size:16px;">
 
@@ -8,9 +8,9 @@
 
 </span>
 
-#### 烧录方法
+### 烧录方法
 
-##### 基本介绍
+#### 基本介绍
 
 <span style="font-size:16px;">
 
@@ -23,7 +23,7 @@
 
 </span>
 
-##### 需要的系统环境
+#### 需要的系统环境
 
 <span style="font-size:16px;">
 
@@ -31,7 +31,7 @@ Windows（推荐win10）；
 
 </span>
 
-##### 需要的相关工具
+#### 需要的相关工具
 
 <span style="font-size:16px;">
 
@@ -41,7 +41,7 @@ Windows（推荐win10）；
 
 </span>
 
-##### 需要的镜像文件
+#### 需要的镜像文件
 
 <span style="font-size:16px;">
 
@@ -51,15 +51,15 @@ RVBoards_D1_debian_desktop.img 包含图形界面的Debian镜像文件
 
 </span>
 
-##### PhoenixCard软件安装（需要环境windows）
+#### PhoenixCard软件安装（需要环境windows）
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1630461529/1.png)
 
-##### 烧录kernel镜像
+#### 烧录kernel镜像
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1630461610/2.png)
 
-##### 启动RVBoards-D1-哪吒
+#### 启动RVBoards-D1-哪吒
 
 <span style="font-size:16px;">
 
@@ -77,11 +77,11 @@ RVBoards_D1_debian_desktop.img 包含图形界面的Debian镜像文件
 
 </span>
 
-#### 镜像软件源配置
+### 镜像软件源配置
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1630461840/3.png)
 
-#### 相关的问题
+### 相关的问题
 
 <span style="font-size:16px;">
 
