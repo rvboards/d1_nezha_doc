@@ -39,6 +39,7 @@ nav:
             - D1-开发板--nezha: D1.md
             - 系统镜像制作及烧录指导:
                     - Tina Linux 系统介绍: Tina_linux系统.md 
+                    - Debian系统烧录以及镜像软件源配置: Debian.md
                     - 源码下载: 源码下载.md
                     - 编译环境配置: 编译环境配置.md
                     - 开发板硬件简介: 开发板硬件简介.md
