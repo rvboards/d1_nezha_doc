@@ -61,3 +61,40 @@ nav:
                     - Firmware Download: 固件下载.md
             - Normal question:
                     - FAQ: FAQ.md
+    - Perf-V Board:
+            - Perf-V Introduction: Perf-V介绍.md
+            - Principle of Perf-V: Perf-V原理.md
+            - Demo of Perf-V:
+                    - Hummingbird Softcore Environment Configuration:
+                            - Introduction to Hummingbird: 蜂鸟简介.md
+                            - RISC-V development environment tutorial:
+                                    - Software to be installed: 蜂鸟需要安装的软件.md
+                                    - Tutorials:
+                                            - Downloading Hummingbird Softcore to Perf-V: 蜂鸟软核下载到Perf-V.md
+                                            - Program download to Hummingbird Softcore: 程序下载到蜂鸟软核.md
+                    - Demo creation process: 
+                            - FPGA_DEMO:
+                                    - Streaming Lights: 流水灯.md
+                                    - DDR3: DDR3.md
+                                    - Camera HDMI Display(High Speed - HDMI & Camera): HDMI&摄像头.md
+                                    - Camera HDMI Display(High Speed - HDMI): 高速HDMI.md
+                                    - Camera VGA Display(High Speed - VGA): 高速VGA.md
+                                    - Simple voltmeter design: 简易电压表设计.md
+                                    - Gigabit Ethernet: 千兆以太网.md
+                                    - USB Transmission: USB传输.md
+                                    - Serial communication: 串口通信.md
+                                    - Perf-V based waveform generator: 波形发生器.md
+                                    - Gluttony mini-game: 贪吃蛇小游戏.md
+                                    - Application of temperature and humidity sensor: 温湿度传感器的应用.md
+                                    - XADC: XADC.md
+                                    - On-chip temperature acquisition: 芯片片内温度的采集.md
+                            - Hummingbird_DEMO:
+                                    - Tri-color LED light display experiment: 基于蜂鸟三色LED灯显示实验.md
+                                    - LED dot matrix experiment: 基于蜂鸟LED点阵实验.md
+                                    - Smart Car: 基于蜂鸟的智能小车.md
+                                    - TFT screen display experiment: 基于蜂鸟TFT屏幕显示实验.md
+                                    - RISCV based simple oscilloscope experiment: 简易示波器实验.md
+                                    - RISCV based quadcopter experiment: 四轴飞行器实验.md
+            - Perf-V IDE Introduction and Usage: IDE介绍及使用.md        
+            - Resources: 资源获取.md 
+            - FAQ: FAQ-PerfV.md
