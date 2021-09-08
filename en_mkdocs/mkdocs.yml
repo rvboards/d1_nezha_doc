@@ -42,7 +42,6 @@ nav:
                     - Debian system burning and mirroring software source configuration: Debian.md
                     - Source code download: 源码下载.md
                     - Compile environment configuration: 编译环境配置.md
-                    - Compile and burn: 编译和烧写.md
                     - Brief introduction of development board hardware: 开发板硬件简介.md
             - Demo experiment and demonstration:
                     - Temperature and humidity sensor DHT11: 温湿度传感器DHT11.md
