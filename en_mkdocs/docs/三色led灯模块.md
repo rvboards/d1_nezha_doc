@@ -11,7 +11,9 @@
 
 
 <span style="font-size:16px;">
-In this example, the system comes with gpio driver to control the extended IO (i2c chip PCF8574A) Test script program /RVBoards_demo/rvboards_led/ rvboards_led.sh, the program is as follows
+In this example, the system comes with gpio driver to control the extended IO (i2c chip PCF8574A) 
+	
+Test script program /RVBoards_demo/rvboards_led/ rvboards_led.sh, the program is as follows
 
 </span>
 
