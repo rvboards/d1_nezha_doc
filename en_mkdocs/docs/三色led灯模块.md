@@ -64,7 +64,9 @@ In this example, the system comes with gpio driver to control the extended IO (i
 
 <span style="font-size:16px;">
 Test command:
+
 Add execute permission: chmod +x rvboards_led.sh
+
 Execute the script program as follows：. /rvboards_led.sh, you can observe the blinking color change of the led, as follows
 </span>
 
