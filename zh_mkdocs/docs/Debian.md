@@ -19,7 +19,7 @@
 包含RVBoards_D1_debian_min.img和RVBoards_D1_debian_desktop.img文件。
 
 		username: root
-		password:roo
+		password:rvboards
 
 </span>
 
