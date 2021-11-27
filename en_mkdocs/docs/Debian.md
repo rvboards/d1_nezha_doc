@@ -19,7 +19,7 @@ This document describes booting the Debian system on the RVBoards-D1-Nezha devel
 The files RVBoards_D1_debian_min.img and RVBoards_D1_debian_desktop.img are included.
 
 		username: root
-		password:roo
+		password:rvboards
 
 </span>
 
