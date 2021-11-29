@@ -1,5 +1,6 @@
 ## D1 datasheet & user manual
 [D1_Datasheet_V0.1(Draft Version).pdf](https://www.rvboards.org/forum/cn/assets/uploads/files/1620442257714-d1_datasheet_v0.1-draft-version.pdf "D1_Datasheet_V0.1(Draft Version).pdf")
+
 [D1_User_Manual_V0.1(Draft Version).pdf](https://www.rvboards.org/forum/cn/assets/uploads/files/1620442756342-d1_user_manual_v0.1-draft-version.pdf "D1_User_Manual_V0.1(Draft Version).pdf")
 
 ## D1 Nezha · Tina SDK, released by Quanzhi original factory
@@ -21,8 +22,8 @@ Time: May 12, 2021
 Update Description: Debian system, Linux 5.4, lxde desktop environment
 
 Image download address:
-【Debian console】[http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_console_img_v0.2.zip](http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_console_img_v0.2.zip "http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_console_img_v0.2.zip")
-【Debian Desktop system】[http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_lxde_img_v0.2.zip](http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_lxde_img_v0.2.zip "http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_lxde_img_v0.2.zip")
+
+【Debian Desktop system】[http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_img_v0.6.1/RVBoards_D1_Debian_img_v0.6.1.zip](http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_img_v0.6.1/RVBoards_D1_Debian_img_v0.6.1.zip "http://www.perfxlab.cn:8080/rvboards/RVBoards_D1_Debian_img_v0.6.1/RVBoards_D1_Debian_img_v0.6.1.zip")
 
 Upgrade burning method：
 [https://rvboards.org/rvboards/single-blog-1.php?id=112](https://rvboards.org/rvboards/single-blog-1.php?id=112 "https://rvboards.org/rvboards/single-blog-1.php?id=112")
