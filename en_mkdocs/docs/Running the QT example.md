@@ -1,6 +1,5 @@
-<div style="width:100%;text-align:center;">
+
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1642065563/1.png)
-</div>
 
 <span style="font-size:16px;">
 RVBoards D1 Nezha builds the QT environment through RVBoards OS, and runs the QT example on the HDMI display.
