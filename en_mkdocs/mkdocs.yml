@@ -54,6 +54,8 @@ nav:
                     - Three color LED lamp module: 三色led灯模块.md
                     - 4X4 matrix keyboard: 矩阵键盘.md
                     - Spi-Lcd 3.5 Screen: Spi-Lcd35屏幕ili9486l.md
+                    - NES Emulator: NES Emulator.md
+                    - Running the QT example: Running the QT example.md
             - Resource acquisition:
                     - Resource summary: RS.md
                     - R&D production tools: 研发生产工具.md
