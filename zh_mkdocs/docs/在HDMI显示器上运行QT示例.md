@@ -1,6 +1,6 @@
-<div style="width:100%;text-align:center;">
+
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1642065563/1.png)
-</div>
+
 
 <span style="font-size:16px;">
 RVBoards D1哪吒通过RVBoards OS搭建QT环境，并且在HDMI显示器上运行QT示例。
