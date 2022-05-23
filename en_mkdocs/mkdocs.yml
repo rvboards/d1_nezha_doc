@@ -72,6 +72,9 @@ nav:
                                     - Tutorials:
                                             - Downloading Hummingbird Softcore to Perf-V: 蜂鸟软核下载到Perf-V.md
                                             - Program download to Hummingbird Softcore: 程序下载到蜂鸟软核.md
+                    - wujian100 soft core environment configuration: 
+                            - CKLink connection method: CKLink.md
+                            - wujian100 operation guide: wujian100_operation.md
                     - Demo creation process: 
                             - FPGA_DEMO:
                                     - Streaming Lights: 流水灯.md
