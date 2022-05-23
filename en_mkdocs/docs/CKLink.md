@@ -1,4 +1,4 @@
-### CKLink连接方式 ###
+### CKLink connection method ###
 
 <span style="font-size:16px;">Perf-V PMOD interface pins</span>
 
