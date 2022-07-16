@@ -24,7 +24,7 @@
 <span style="font-size:16px;">创建工具链文件夹：mkdir riscv_toolchain</span><br>
 <span style="font-size:16px;">切换工作目录到该文件夹下：cd riscv_toolchain</span><br>
 
-![](./images_dir/1657953440/9.png)
+![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657953440/9.png)
 
 <span style="font-size:16px;">将下载好的工具链压缩包放到该文件夹下，这里直接拖拽复制，将文件由Windows本机上传到了该Ubuntu 系统的工作站上。也可用cp复制命令复制到文件夹下。</span><br>
 
