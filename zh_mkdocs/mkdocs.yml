@@ -77,6 +77,7 @@ nav:
                     - wujian100软核环境配置:
                             - CKLink连接方式: CKLink.md
                             - wujian100操作指导: wujian100操作.md
+                            - RISC-V处理器阿里平头哥玄铁E902与wujian100的FPGA实现: RISC-V处理器阿里平头哥.md
                     - Demo制作过程: 
                             - FPGA_DEMO:
                                     - 流水灯: 流水灯.md
