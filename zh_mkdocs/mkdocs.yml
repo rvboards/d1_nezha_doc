@@ -82,6 +82,7 @@ nav:
                                     - Wujian100的仿真: Wujian100的仿真.md
                                     - Wujian100的SoC实现: Wujian100的SoC实现.md
                                     - I/O口与SD卡读写实验（不要热插拔）: IO口与SD卡读写实验.md
+                                    - RT-thread Nano OS移植: RT-thread Nano OS移植.md
                     - Demo制作过程: 
                             - FPGA_DEMO:
                                     - 流水灯: 流水灯.md
