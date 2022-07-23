@@ -75,6 +75,8 @@ nav:
                     - wujian100 soft core environment configuration: 
                             - CKLink connection method: CKLink.md
                             - wujian100 operation guide: wujian100_operation.md
+                            - FPGA implementation of RISC-V processor Ali Pingtou Ge Xuantie E902 and wujian100:
+                                    - RISC-V processor Ali Pingtou: RISC-V processor Ali Pingtou.md
                     - Demo creation process: 
                             - FPGA_DEMO:
                                     - Streaming Lights: 流水灯.md
