@@ -78,6 +78,7 @@ nav:
                             - FPGA implementation of RISC-V processor Ali Pingtou Ge Xuantie E902 and wujian100:
                                     - Experiment preparation: RISC-V processor Ali Pingtou.md
                                     - Simulation of Wujian100: Simulation of Wujian100.md
+                                    - SoC implementation of Wujian100: SoC implementation of Wujian100.md
                     - Demo creation process: 
                             - FPGA_DEMO:
                                     - Streaming Lights: 流水灯.md
