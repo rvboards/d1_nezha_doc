@@ -1,4 +1,4 @@
-## 实验准备
+## Experiment preparation
 <span style="font-size:16px;">1. Development board (the development board needs to know the interfaces, LEDs, expansion ports, switches, etc., some hardware to be used in your project) > development board (the development board needs to know the interfaces, LEDs, expansion ports, switches, etc. some of your hardware to be used in the project)</span><br>
 <span style="font-size:16px;">References and source code downloads</span><br>
 <span style="font-size:16px;">Teacher Di's homepage：[http://www.dizhixiong.cn/class5/](http://www.dizhixiong.cn/class5/ "http://www.dizhixiong.cn/class5/")</span><br>
