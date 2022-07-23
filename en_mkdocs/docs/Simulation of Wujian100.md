@@ -1,5 +1,5 @@
 ## Purpose
-<span style="font-size:16px;">Wujian100_open是阿里平头哥在Github上开源了RISC-V项目。本文档在Linux环境下进行Wujian100的仿真。</span><br>
+<span style="font-size:16px;">Wujian100_open is an open source RISC-V project by Ali Pingtou on Github. This document simulates Wujian100 in Linux environment.</span><br>
 
 ## Experimental procedure
 ### 1. Download the official code
