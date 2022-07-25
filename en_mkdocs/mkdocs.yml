@@ -80,6 +80,7 @@ nav:
                                     - Simulation of Wujian100: Simulation of Wujian100.md
                                     - SoC implementation of Wujian100: SoC implementation of Wujian100.md
                                     - I/O port and SD card reading and writing experiment (do not hot-swap): IO port and SD card reading and writing experiment.md
+                                    - RT-thread Nano OS porting: RT-thread Nano OS porting.md
                     - Demo creation process: 
                             - FPGA_DEMO:
                                     - Streaming Lights: 流水灯.md
