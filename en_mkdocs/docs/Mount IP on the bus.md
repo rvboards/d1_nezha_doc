@@ -9,7 +9,7 @@
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1658539182/3.png)
 
-## experimental steps
+## Experimental steps
 ### 1. Create Block Design
 <span style="font-size:16px;">Wujian100 soft core is AHB bus, VIVADO supports AXI bus IP, need to use AHB-Lite to AXI Bridge adapter module.</span><br>
 <span style="font-size:16px;">Click Create Block Design, enter the design name, and open the Block Design interface.</span><br>
