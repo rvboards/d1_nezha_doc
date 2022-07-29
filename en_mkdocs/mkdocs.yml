@@ -82,6 +82,7 @@ nav:
                                     - I/O port and SD card reading and writing experiment (do not hot-swap): IO port and SD card reading and writing experiment.md
                                     - RT-thread Nano OS porting: RT-thread Nano OS porting.md
                                     - Mount IP on the bus: Mount IP on the bus.md
+                                    - Instructions for modifying the xdc file: Instructions for modifying the xdc file.md
                     - Demo creation process: 
                             - FPGA_DEMO:
                                     - Streaming Lights: 流水灯.md
