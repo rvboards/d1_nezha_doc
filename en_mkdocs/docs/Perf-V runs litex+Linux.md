@@ -190,3 +190,5 @@ Finally, the `"buildroot:"` prompt appears, indicating that the Linux loading is
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1663222298/2.png)
 
+Link：https://pan.baidu.com/s/1mQHqKaCxYuenaWMjSOADJg 
+Extraction code：perf
