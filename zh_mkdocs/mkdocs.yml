@@ -85,7 +85,7 @@ nav:
                                     - RT-thread Nano OS移植: RT-thread Nano OS移植.md
                                     - 在总线上挂载IP: 在总线上挂载IP.md
                                     - xdc文件修改说明: xdc文件修改说明.md
-                            - Perf-V运行litex+Linux: Perf-V运行litex+Linux.md
+                    - Perf-V运行litex+Linux: Perf-V运行litex+Linux.md
                     - Demo制作过程: 
                             - FPGA_DEMO:
                                     - 流水灯: 流水灯.md
