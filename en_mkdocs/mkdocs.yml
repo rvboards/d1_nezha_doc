@@ -83,6 +83,7 @@ nav:
                                     - RT-thread Nano OS porting: RT-thread Nano OS porting.md
                                     - Mount IP on the bus: Mount IP on the bus.md
                                     - Instructions for modifying the xdc file: Instructions for modifying the xdc file.md
+                            - Perf-V runs litex+Linux: Perf-V runs litex+Linux.md
                     - Demo creation process: 
                             - FPGA_DEMO:
                                     - Streaming Lights: 流水灯.md
