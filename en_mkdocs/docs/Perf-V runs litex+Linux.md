@@ -81,7 +81,8 @@ Note: If the Vivado environment is already installed in the Linux environment, y
 ## IV. Litex running of Perf V1 (Windows)
 
 Download the generated bitstream to the Perf V1 board, open the serial port tool, set **baud rate** to 115200, and you will see the following print:
-<p align="center"><img src="https://thumbnail0.baidupcs.com/thumbnail/79c741e42i1088865c69a00f5e19787a?fid=2100161607-250528-661051036956972&time=1662692400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Tu12X77EkmDgPjNrXVXbW1ln8bc%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=67454240376138926&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video" width="700"></p>
+
+![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1663222314/3.png)
 
 ## Perf V1 for Linux (Linux)
 1. **Image** + **rootfs.cpio**
@@ -189,4 +190,3 @@ Finally, the `"buildroot:"` prompt appears, indicating that the Linux loading is
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1663222298/2.png)
 
-![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1663222314/3.png)
