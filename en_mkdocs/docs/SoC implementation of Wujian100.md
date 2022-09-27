@@ -3,14 +3,8 @@
 
 ## Experimental procedure
 ### 1. Open wujian100 with Vivado
-<span style="font-size:16px;">1) Add board_file board level support file to wujian100 project</span><br>
-<span style="font-size:16px;">Download the board level file of NexyVideo50T on GitHub</span><br>
 
-![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955318/24.png)
-
-<span style="font-size:16px;">Find the official Xilinx account and download the board_file file corresponding to the 50T, so that you can choose the type of development board later;</span><br>
-
-<span style="font-size:16px;">2) Create project</span><br>
+<span style="font-size:16px;">1) Create project</span><br>
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955380/25.png)
 
@@ -30,11 +24,11 @@
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955610/30.png)
 
-<span style="font-size:16px;">3) After the file is added, VIVADO will automatically identify, compile, and analyze it. VIVADO analyzes the error in the file and marks it with a red wavy line (the reason for the error is that the header file is not recognized, and the four file types can be changed to the header file type)</span><br>
+<span style="font-size:16px;">2) After the file is added, VIVADO will automatically identify, compile, and analyze it. VIVADO analyzes the error in the file and marks it with a red wavy line (the reason for the error is that the header file is not recognized, and the four file types can be changed to the header file type)</span><br>
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955669/31.png)
 
-<span style="font-size:16px;">4) call clock IP</span><br>
+<span style="font-size:16px;">3) call clock IP</span><br>
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955725/32.png)
 
