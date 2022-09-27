@@ -3,14 +3,8 @@
 
 ## 实验步骤
 ### 1. 把wujian100用Vivado打开
-<span style="font-size:16px;">1) 向wujian100的工程中添加board_file板级支持文件</span><br>
-<span style="font-size:16px;">GitHub上下载NexyVideo50T的板级文件</span><br>
 
-![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955318/24.png)
-
-<span style="font-size:16px;">找到Xilinx官方账号，下载50T对应的board_file文件，这样在后面选开发板类型时才好选；</span><br>
-
-<span style="font-size:16px;">2) 创建工程</span><br>
+<span style="font-size:16px;">1) 创建工程</span><br>
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955380/25.png)
 
@@ -30,11 +24,11 @@
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955610/30.png)
 
-<span style="font-size:16px;">3) 文件添加进来后，VIVADO 会自动识别、编译、分析，VIVADO 分析文件中的错误，用红色波浪线标识（错误原因是没有识别出头文件，将这四个文件类型改为头文件类型即可）</span><br>
+<span style="font-size:16px;">2) 文件添加进来后，VIVADO 会自动识别、编译、分析，VIVADO 分析文件中的错误，用红色波浪线标识（错误原因是没有识别出头文件，将这四个文件类型改为头文件类型即可）</span><br>
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955669/31.png)
 
-<span style="font-size:16px;">4) 调用时钟IP</span><br>
+<span style="font-size:16px;">3) 调用时钟IP</span><br>
 
 ![](https://rvboards.org/rvboards/dasdu8syrbgvtzvhfj12f4d5/images_dir/1657955725/32.png)
 
